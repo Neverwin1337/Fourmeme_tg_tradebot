@@ -18,6 +18,8 @@ Telegram 狙击机器人：面向 **BSC 链** 的 **Fourmeme 内盘**（以及�
 > 注意：本项目涉及私钥/助记词/链上交易与资金风险，请仅在你完全理解代码与风险的前提下使用。
 
 ## 技术栈
+<img width="321" height="580" alt="image" src="https://github.com/user-attachments/assets/f72af1f9-7c3d-497b-8f4e-d77cb253f363" />
+<img width="488" height="727" alt="image" src="https://github.com/user-attachments/assets/1e9e5a83-dc71-4aee-857f-d676dc718f4f" />
 
 - **Node.js**
   - `telegraf`（Telegram Bot Framework）
@@ -35,6 +37,7 @@ Telegram 狙击机器人：面向 **BSC 链** 的 **Fourmeme 内盘**（以及�
 - `mysql_schema_v2.sql`：数据库结构（v2）
 - `utils/priceWorker.js`：价格 worker 子进程
 - `services/`、`lib/`、`utils/`：业务逻辑与工具
+
 
 ## 环境准备
 
